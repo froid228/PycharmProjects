@@ -1,0 +1,9 @@
+{
+    "filesystem": {
+        "path": "virtual_fs.zip"
+    },
+    "log": {
+        "path": "logs/session_log.xml"
+    }
+}
+
