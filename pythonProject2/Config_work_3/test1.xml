@@ -1,0 +1,16 @@
+
+    <dictionary>
+        <entry>
+            <name>host</name>
+            <value type="string">localhost</value>
+        </entry>
+        <entry>
+            <name>port</name>
+            <value type="number">8080</value>
+        </entry>
+        <entry>
+            <name>routes</name>
+            <value type="dictionary">{'home': '/', 'about': '/about'}</value>
+        </entry>
+    </dictionary>
+    

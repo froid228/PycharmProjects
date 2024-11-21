@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e105108d-6640-4353-a64c-9410ed0a6d16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/.idea/mesto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/.idea/mesto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/.nojekyll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/body/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/body/body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/cards/__delete/cards__delete.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/cards/__delete/cards__delete.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/cards/__description/cards__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/cards/__description/cards__description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/cards/__image/cards__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/cards/__image/cards__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/cards/__info/cards__info.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/cards/__info/cards__info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/cards/__item/cards__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/cards/__item/cards__item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/cards/__like/_active/cards__like_active.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/cards/__like/_active/cards__like_active.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/cards/__like/cards__like.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/cards/__like/cards__like.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/cards/cards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/footer/__description/footer__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/footer/__description/footer__description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/header/__logo/header__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/header/__logo/header__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/page/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__close/popup__close.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__close/popup__close.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__container/popup__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__container/popup__container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__description/popup__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__description/popup__description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__form/popup__form.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__form/popup__form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__image/popup__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__image/popup__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__input/_item/popup__input_item_description.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__input/_item/popup__input_item_description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__input/_item/popup__input_item_name.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__input/_item/popup__input_item_name.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__input/popup__input.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__input/popup__input.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__name/popup__name.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__name/popup__name.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/__submit/popup__submit.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/__submit/popup__submit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/_opened/popup_opened.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/_opened/popup_opened.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/_zoom/popup_zoom_active.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/_zoom/popup_zoom_active.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/popup/zoom-container/popup__zoom-container.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/popup/zoom-container/popup__zoom-container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/profile/__add-mesto/profile__add-mesto.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/profile/__add-mesto/profile__add-mesto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/profile/__avatar/profile__avatar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/profile/__avatar/profile__avatar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/profile/__description/profile__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/profile/__description/profile__description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/profile/__editor/profile__editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/profile/__editor/profile__editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/profile/__info/profile__info.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/profile/__info/profile__info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/profile/__name/profile__name.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/profile/__name/profile__name.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/blocks/profile/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/blocks/profile/profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/images/icon/add.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/images/icon/add.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/images/icon/close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/images/icon/close.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/images/icon/edit.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/images/icon/edit.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/images/icon/like.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/images/icon/like.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/images/icon/like_active.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/images/icon/like_active.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/images/icon/trash.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/images/icon/trash.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/images/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/images/profile__avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/images/profile__avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/scripts/initialCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/scripts/initialCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/vendor/fonts/Inter/Inter-Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/vendor/fonts/Inter/Inter-Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/vendor/fonts/Inter/Inter-Black.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/vendor/fonts/Inter/Inter-Black.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/vendor/fonts/Inter/Inter-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/vendor/fonts/Inter/Inter-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/vendor/fonts/Inter/Inter-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/vendor/fonts/Inter/Inter-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/vendor/fonts/Inter/Inter-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/vendor/fonts/Inter/Inter-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/vendor/fonts/Inter/Inter-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/vendor/fonts/Inter/Inter-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/vendor/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/vendor/fonts/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/yandexprioject4/Fourth_project.Mesto-on-JavaScript-main/vendor/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/yandexprioject4/yandexproject44/vendor/normalize.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nTS2migrAWScAo7qZRF18u9jGu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/alekseirumancev/PycharmProjects/pythonProject2/venv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/filesystem.zip" />
+      <recent name="$PROJECT_DIR$/filesystem.zip/sub_directory" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.shell_emulator">
+    <configuration name="emulator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shell_emulator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shell_emulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_emulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/test_emulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_emulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e105108d-6640-4353-a64c-9410ed0a6d16" name="Changes" comment="" />
+      <created>1728995367496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728995367496</updated>
+      <workItem from="1728995369353" duration="1457000" />
+      <workItem from="1729629943087" duration="132000" />
+      <workItem from="1730182920039" duration="4194000" />
+      <workItem from="1730268211673" duration="11000" />
+      <workItem from="1730378247343" duration="1674000" />
+      <workItem from="1730395988847" duration="599000" />
+      <workItem from="1730546836846" duration="1753000" />
+      <workItem from="1731159569087" duration="19000" />
+      <workItem from="1731404644404" duration="3184000" />
+      <workItem from="1731515155986" duration="599000" />
+      <workItem from="1731527030501" duration="545000" />
+      <workItem from="1732037793242" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject2$main.coverage" NAME="main Coverage Results" MODIFIED="1728996497947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject2$test_emulator.coverage" NAME="test_emulator Coverage Results" MODIFIED="1730380257510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>

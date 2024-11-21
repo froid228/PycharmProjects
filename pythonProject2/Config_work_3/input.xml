@@ -1,0 +1,10 @@
+<dictionary>
+    <entry>
+        <name>a</name>
+        <value type="number">42</value>
+    </entry>
+    <entry>
+        <name>b</name>
+        <value type="dictionary">{'key': 'value'}</value>
+    </entry>
+</dictionary>
