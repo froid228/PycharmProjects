@@ -1,0 +1,7 @@
+<config>
+    <constant1>42</constant1>
+    <dictionary1>
+        <key1>100</key1>
+        <key2>200</key2>
+    </dictionary1>
+</config>
