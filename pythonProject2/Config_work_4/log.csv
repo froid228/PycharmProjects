@@ -1,0 +1,6 @@
+command,binary
+sgn 0 10,CE 0A 00 00 00 00
+sgn 1 11,CE 0B 00 00 00 00
+sgn 2 12,CE 0E 00 00 00 00
+sgn 3 13,CE 0F 00 00 00 00
+sgn 4 14,CE 0E 00 00 00 00
