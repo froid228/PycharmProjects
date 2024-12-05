@@ -1,0 +1,11 @@
+command,binary
+load_const 0 10,E9 0A 00 00 00 00
+load_const 1 25,E9 19 00 00 00 00
+load_const 2 30,E9 1E 00 00 00 00
+load_const 3 50,E9 33 00 00 00 00
+load_const 4 15,E9 0F 00 00 00 00
+sgn 0 5,CE 05 00 00 00 00
+sgn 1 6,CE 07 00 00 00 00
+sgn 2 7,CE 07 00 00 00 00
+sgn 3 8,CE 0B 00 00 00 00
+sgn 4 9,CE 0D 00 00 00 00

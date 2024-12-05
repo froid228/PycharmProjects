@@ -1,0 +1,10 @@
+load_const 0 10
+load_const 1 25
+load_const 2 30
+load_const 3 50
+load_const 4 15
+sgn 0 5
+sgn 1 6
+sgn 2 7
+sgn 3 8
+sgn 4 9
